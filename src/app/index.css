@@ -1,0 +1,11 @@
+.wechat {
+  background-color: #09bb07 !important;
+  color: #fff !important;
+  user-select: none;
+}
+
+.alipay {
+  background-color: #1890ff !important;
+  color: #fff !important;
+  user-select: none;
+}
