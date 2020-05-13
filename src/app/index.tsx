@@ -25,7 +25,7 @@ const App = () => {
   useEffect(() => {
     if (isAlipay) {
       // TODO: 直接打开小程序
-      // aliPay.openAlipay();
+      aliPay.openAlipay();
     }
   }, []);
 
